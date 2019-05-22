@@ -125,9 +125,6 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <connections>
-                        <segue destination="GU3-xu-FDR" kind="presentation" identifier="showDetail" id="QJF-Ud-TmP"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
@@ -287,7 +284,4 @@
     <resources>
         <image name="close_ic" width="128" height="128"/>
     </resources>
-    <inferredMetricsTieBreakers>
-        <segue reference="vGD-nM-RrD"/>
-    </inferredMetricsTieBreakers>
 </document>
